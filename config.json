@@ -1,0 +1,23 @@
+{
+    "ownerNumber": "6285339002283@s.whatsapp.net",
+    "ownerName": "Mamas Ganzz",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Xinz Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "lolkey": "RiswanJB",
+    "sesidInsta": "default",
+    "sessionName": "aqulzz",
+    "txtDonasi": "DANA : 085339002283\nPULSA : 085339002283",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
